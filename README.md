@@ -1,6 +1,6 @@
 # Prodile Page
 # Profile Page Template
-
+![LuxeFit Logo](assets/img/header-img.svg)
 Repository: Profile-template01
 
 Description:
